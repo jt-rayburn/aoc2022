@@ -3,3 +3,4 @@
 - [Day 1](/day01/main.go)
 - [Day 2](/day02/main.go)
 - [Day 3](/day03/main.go)
+- [Day 4](/day04/main.go)
